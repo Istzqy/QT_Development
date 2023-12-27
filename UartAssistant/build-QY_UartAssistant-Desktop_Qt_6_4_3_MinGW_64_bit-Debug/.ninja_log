@@ -1,0 +1,21 @@
+# ninja log v5
+1	1020	7252816712224184	QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+1	1020	7252816712224184	QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+1	1020	7252816712224184	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+1	1020	7252816712224184	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+1047	4137	7252816744462176	CMakeFiles/QY_UartAssistant.dir/main.cpp.obj	34b05005c7e0b996
+1021	4144	7252816744512030	CMakeFiles/QY_UartAssistant.dir/QY_UartAssistant_autogen/mocs_compilation.cpp.obj	83f9707830327289
+1033	4164	7252816744752819	CMakeFiles/QY_UartAssistant.dir/widget.cpp.obj	ab426d01025e2c10
+4164	4574	7252816748810610	QY_UartAssistant.exe	734a79db300630aa
+6	306	7252818794802373	QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+6	306	7252818794802373	QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+6	306	7252818794802373	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+6	306	7252818794802373	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+317	2291	7252818814649021	CMakeFiles/QY_UartAssistant.dir/widget.cpp.obj	ab426d01025e2c10
+2291	2551	7252818817182199	QY_UartAssistant.exe	734a79db300630aa
+6	300	7252819766897345	QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+6	300	7252819766897345	QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+6	300	7252819766897345	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/timestamp	8d8b5651a983f339
+6	300	7252819766897345	D:/Keyan/QT_Development/UartAssistant/build-QY_UartAssistant-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/QY_UartAssistant_autogen/mocs_compilation.cpp	8d8b5651a983f339
+311	2232	7252819786214808	CMakeFiles/QY_UartAssistant.dir/widget.cpp.obj	ab426d01025e2c10
+2232	2467	7252819788518653	QY_UartAssistant.exe	734a79db300630aa

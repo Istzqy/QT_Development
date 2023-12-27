@@ -1,0 +1,9 @@
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/SerialPort.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/SerialPort_autogen_timestamp_deps.dir
+D:/Keyan/QT_Development/SerialPort_Learning/build-SerialPort-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/SerialPort_autogen.dir
